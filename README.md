@@ -45,7 +45,7 @@ python3 main.py -d input.json
 
 ## Collaborators
 
-* :email: [Joseph Kim (MIT, IBM)](joseph_kim@csail.mit.edu)
-* :email: [Christian Muise (IBM)](christian.muise@gmail.com)
-* :email: [Shubham Agarwal (IBM)](agarwalshubham2007@gmail.com)
-* :email: [Mayank Agarwal (IBM)](mayank.agarwal@ibm.com)
+* :email: [Joseph Kim (MIT, IBM)](mailto:joseph_kim@csail.mit.edu)
+* :email: [Christian Muise (IBM)](mailto:christian.muise@gmail.com)
+* :email: [Shubham Agarwal (IBM)](mailto:agarwalshubham2007@gmail.com)
+* :email: [Mayank Agarwal (IBM)](mailto:mayank.agarwal@ibm.com)
